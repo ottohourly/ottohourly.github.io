@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-calculator-minus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-calculator-minus">
+            <path d="M14.9095,3.95516953e-16 C11.0655,3.95516953e-16 7.2425,1.47 4.3665,4.419 C-1.4165,10.349 -1.4955,19.759 4.3665,25.61 C7.2975,28.537 11.1405,30 14.9815,30 L26.9995,30 C28.6565,30 29.9995,28.555 29.9995,26.898 L29.9995,3 C29.9995,1.343 28.6565,3.95516953e-16 26.9995,3.95516953e-16 L14.9095,3.95516953e-16 Z" id="Fill-1" fill="#4F4F4F"></path>
+            <polygon id="Fill-4" fill="#FFFFFF" points="6 16 26 16 26 14 6 14"></polygon>
+        </g>
+    </g>
+</svg>

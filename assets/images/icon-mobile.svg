@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="30px" viewBox="0 0 25 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.53,26.623 C15.65,26.426 16.393,25.334 16.191,24.184 C15.988,23.035 14.916,22.263 13.796,22.46 C12.676,22.658 11.932,23.75 12.135,24.899 C12.337,26.049 13.41,26.82 14.53,26.623 M4.898,7.577 L17.066,5.431 L19.634,20 L7.467,22.146 L4.898,7.577 M2.043,7.194 C1.721,5.37 2.929,3.632 4.766,3.308 L15.73,1.375 C17.556,1.053 19.295,2.264 19.618,4.095 L22.979,23.158 C23.301,24.982 22.094,26.72 20.256,27.044 L9.292,28.977 C7.467,29.299 5.727,28.088 5.404,26.257 L2.043,7.194" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon-mobile" sketch:type="MSArtboardGroup">
+            <mask id="mask-2" sketch:name="Clip 2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Clip-2" opacity="0.65" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

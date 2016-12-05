@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="176px" height="88px" viewBox="0 0 176 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>other-detail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.841782405" y="0.0524470888" width="155.762169" height="96.8251322"></rect>
+        <linearGradient x1="50%" y1="68.2071963%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#D5E3EF" offset="0%"></stop>
+            <stop stop-color="#F5F5F5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="157.867063" height="33.6783068"></rect>
+        <linearGradient x1="50%" y1="45.9756599%" x2="50%" y2="22.2514079%" id="linearGradient-6">
+            <stop stop-color="#D5E3EF" offset="0%"></stop>
+            <stop stop-color="#F5F5F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="68.2071963%" x2="50%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#D5E3EF" offset="13.8512436%"></stop>
+            <stop stop-color="#F5F5F5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-8" d="M132.242653,38.390072 L21.2426531,38.390072"></path>
+        <rect id="path-9" x="0" y="0" width="69.4615079" height="54.7272486"></rect>
+        <linearGradient x1="50%" y1="68.2071963%" x2="50%" y2="0%" id="linearGradient-11">
+            <stop stop-color="#D5E3EF" offset="0%"></stop>
+            <stop stop-color="#F5F5F5" offset="55.4229114%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="17.6635106%" x2="50%" y2="0%" id="linearGradient-12">
+            <stop stop-color="#D5E3EF" offset="0%"></stop>
+            <stop stop-color="#F5F5F5" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-13" d="M25.2587301,51.5174603 L56.8321428,51.5174603 L56.8321428,22.8707737 C56.8321428,14.2662918 49.7641936,7.31468253 41.0454365,7.31468253 C32.3444202,7.31468253 25.2587301,14.2793818 25.2587301,22.8707737 L25.2587301,51.5174603 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="other-detail" sketch:type="MSLayerGroup" transform="translate(-3.242653, -10.390072)">
+            <g id="Group" transform="translate(3.104894, 0.000000)">
+                <mask id="mask-2" sketch:name="Mask" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)" stroke="#A4C4DD" stroke-width="2" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup">
+                    <g transform="translate(1.104894, 11.629365)">
+                        <ellipse id="Oval-37" cx="72.6188491" cy="72.6188491" rx="72.6188491" ry="72.6188491"></ellipse>
+                        <ellipse id="Oval-37-Copy-2" cx="72.6188491" cy="72.6188491" rx="53.6748015" ry="72.6188491"></ellipse>
+                        <ellipse id="Oval-37-Copy-3" cx="73.6712962" cy="72.6188491" rx="27.3636243" ry="72.6188491"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <g id="Oval-37-+-Oval-37-Copy-6-+-Line" transform="translate(0.000000, 38.992989)">
+                <mask id="mask-5" sketch:name="Mask" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                <g mask="url(#mask-5)" stroke="#A4C4DD" stroke-width="2" sketch:type="MSShapeGroup">
+                    <g transform="translate(4.209788, -29.468518)">
+                        <ellipse id="Oval-37" fill="url(#linearGradient-6)" fill-rule="evenodd" cx="72.6188491" cy="74.7237433" rx="72.6188491" ry="72.6188491"></ellipse>
+                        <ellipse id="Oval-37-Copy-6" fill="url(#linearGradient-7)" fill-rule="evenodd" cx="73.6712962" cy="74.7237433" rx="42.0978836" ry="72.6188491"></ellipse>
+                        <path d="M71.566402,1.05244709 L71.566402,146.305401" id="Line" stroke-linecap="square" fill="none"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Line-Copy-23">
+                <use stroke="none" sketch:type="MSShapeGroup" xlink:href="#path-8"></use>
+                <use stroke="#A4C4DD" stroke-width="2" stroke-linecap="round" xlink:href="#path-8"></use>
+            </g>
+            <path d="M149.242653,72.390072 L5.24265308,72.390072" id="Line-Copy-24" stroke="#A4C4DD" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <g id="Path-+-Shape-+-Shape" transform="translate(111.559391, 42.202778)">
+                <mask id="mask-10" sketch:name="Mask" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-9"></use>
+                <g mask="url(#mask-10)">
+                    <g transform="translate(4.209788, 6.314683)">
+                        <path d="M0.473473317,48.8726118 L61.4734733,48.8726118 L61.4734733,24.8726118 C61.4734733,11.6148634 50.7285902,0.872611772 37.4741051,0.872611772 L24.4728415,0.872611772 C11.2211253,0.872611772 0.473473317,11.6177778 0.473473317,24.8726118 L0.473473317,48.8726118 Z" id="Rectangle-4029" stroke="#A4C4DD" stroke-width="2" fill="url(#linearGradient-11)" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                        <path d="M21.0489418,23.0992933 L21.0489418,23.0992933 C21.0489418,12.0632085 30.0152602,3.10489418 41.0454365,3.10489418 C52.0940692,3.10489418 61.0419311,12.0465078 61.0419311,23.0992933 L61.0419311,53.6223544 L61.0419311,55.7272486 L58.937037,55.7272486 L23.153836,55.7272486 L21.0489418,55.7272486 L21.0489418,53.6223544 L21.0489418,23.0992933 Z" id="Shape" stroke="none" fill="url(#linearGradient-12)" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                        <g id="Path" stroke="none">
+                            <use fill="#506C82" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-13"></use>
+                            <use fill="none" xlink:href="#path-13"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path d="M116.242653,81.390072 L133.242653,81.390072" id="Line" stroke="#A4C4DD" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M118.242653,60.390072 L138.242653,60.390072" id="Line-Copy-25" stroke="#A4C4DD" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M178.242653,97.390072 L5.24265308,97.390072" id="Path-1053" stroke="#A4C3DD" stroke-width="2" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

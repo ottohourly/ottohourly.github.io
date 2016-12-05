@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="112px" height="100px" viewBox="0 0 112 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>mob-step5-img</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.7306524,0.0542169539 C1.27278135,0.0542169539 0.0841015774,1.18896829 0.0841015774,2.58814617 L0.0841015774,56.4931148 C0.0841015774,57.888805 1.26913916,59.027361 2.7306524,59.027361 L97.1012311,59.027361 C98.5591021,59.027361 99.7477819,57.8926097 99.7477819,56.4931148 L99.7477819,2.58814617 C99.7477819,1.19277299 98.5630754,0.0542169539 97.1012311,0.0542169539 L2.7306524,0.0542169539 L2.7306524,0.0542169539 Z" id="path-1"></path>
+        <ellipse id="path-3" cx="85.7142857" cy="16.3310345" rx="3.06122449" ry="3.06206897"></ellipse>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1.02040816" y="-1.02040816" width="8.16326531" height="8.16495426">
+            <rect x="81.6326531" y="12.2485574" width="8.16326531" height="8.16495426" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-204.000000, -1074.000000)">
+            <g id="Group-15" transform="translate(210.000000, 1089.000000)">
+                <g id="Page-1-Copy">
+                    <g id="Group-3" transform="translate(0.000000, 0.092264)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <polygon id="Fill-1" fill="#25519F" mask="url(#mask-2)" points="-1.57144129 60.612335 101.403325 60.612335 101.403325 -1.5310741 -1.57144129 -1.5310741"></polygon>
+                    </g>
+                    <polygon id="Fill-4" fill="#FEFEFE" points="4.38851302 54.680493 95.4433705 54.680493 95.4433705 4.26823762 4.38851302 4.26823762"></polygon>
+                </g>
+                <path d="M78.3163265,16.0758621 L9.94897959,16.0758621" id="Line-Copy" stroke="#EBEBE1" stroke-width="0.510204082" stroke-linecap="square" stroke-dasharray="2.551020408163265,2.040816326530612"></path>
+                <path d="M78.3163265,28.8344828 L9.94897959,28.8344828" id="Line-Copy-2" stroke="#EBEBE1" stroke-width="0.510204082" stroke-linecap="square" stroke-dasharray="2.551020408163265,2.040816326530612"></path>
+                <path d="M78.3163265,42.6137931 L9.94897959,42.6137931" id="Line-Copy-3" stroke="#EBEBE1" stroke-width="0.510204082" stroke-linecap="square" stroke-dasharray="2.551020408163265,2.040816326530612"></path>
+                <ellipse id="Oval-29-Copy" fill="#D8D8D8" cx="85.7142857" cy="29.0896552" rx="3.06122449" ry="3.06206897"></ellipse>
+                <ellipse id="Oval-29-Copy-2" fill="#AA725B" cx="85.7142857" cy="42.3586207" rx="3.06122449" ry="3.06206897"></ellipse>
+                <rect id="Rectangle-15-Copy-2" fill="#2350A0" x="38.2653061" y="61.2413793" width="23.5087087" height="8.95350705"></rect>
+                <rect id="Rectangle-16-Copy-2" fill="#2350A0" x="26.0204082" y="70.937931" width="48.010743" height="2.87791298" rx="3.06122449"></rect>
+                <polyline id="Path-156" stroke="#41A5F5" stroke-width="2.04081633" stroke-linecap="round" points="11.1029177 29.0846713 25.687657 29.0846713 40.1700821 42.550402 66.3351921 16.3780741 85.6372564 16.3780741"></polyline>
+                <ellipse id="Oval-32" stroke="#41A5F5" stroke-width="1.53061224" fill="#FFFFFF" cx="10.9693878" cy="28.8344828" rx="2.80612245" ry="2.80689655"></ellipse>
+                <ellipse id="Oval-32-Copy" stroke="#41A5F5" stroke-width="1.53061224" fill="#FFFFFF" cx="40.0510204" cy="41.5931034" rx="2.80612245" ry="2.80689655"></ellipse>
+                <ellipse id="Oval-32-Copy-2" stroke="#41A5F5" stroke-width="1.53061224" fill="#FFFFFF" cx="67.0918367" cy="16.5862069" rx="2.80612245" ry="2.80689655"></ellipse>
+                <g id="Oval-29">
+                    <use fill="#ECBF0F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="2.04081633" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

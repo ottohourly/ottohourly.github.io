@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-learner-driver</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0.578072979,31.292513 C0.578072979,31.8450741 1.02593712,32.2930133 1.57857321,32.2930133 L31.2593909,32.2930133 C31.811952,32.2930133 32.2598912,31.8451491 32.2598912,31.292513 L32.2598912,1.61169532 C32.2598912,1.0591343 31.812027,0.611195092 31.2593909,0.611195092 L1.57857321,0.611195092 C1.02601219,0.611195092 0.578072979,1.05905923 0.578072979,1.61169532 L0.578072979,31.292513 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon-learner-driver" sketch:type="MSArtboardGroup">
+            <g id="Page-1-Copy-2-+-Page-1-Copy" sketch:type="MSLayerGroup" transform="translate(8.000000, 8.500000)">
+                <path d="M30.4605752,29.4047461 C31.0090764,29.3567585 31.4140751,28.8646616 31.3668352,28.3247075 L29.0163955,1.45905844 C28.9684079,0.910557199 28.476311,0.505558533 27.9363569,0.5527984 L1.07070785,2.90323813 C0.522206607,2.95122577 0.117207941,3.44332264 0.164447808,3.98327678 L2.51488753,30.8489258 C2.56287518,31.397427 3.05497204,31.8024257 3.59492619,31.7551858 L30.4605752,29.4047461 Z" id="Fill-1" fill="#40A4F4" sketch:type="MSShapeGroup"></path>
+                <g id="Fill-1-+-Fill-2" transform="translate(23.736341, 24.716927) rotate(-357.000000) translate(-23.736341, -24.716927) translate(7.429523, 8.410109)">
+                    <g id="Fill-1">
+                        <use stroke="none" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <use stroke="#40A4F4" stroke-width="2" fill="none" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M9.32171847,21.6609247 L9.32171847,7.15530475 L16.3123817,7.15530475 L16.3123817,18.3403782 L24.8759256,18.3403782 L24.8759256,24.9814713 L9.32171847,24.9814713 L9.32171847,21.6609247 Z" id="Fill-2" fill="#40A4F4" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

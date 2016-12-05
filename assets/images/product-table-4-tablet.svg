@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="382px" height="83px" viewBox="0 0 382 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>product-table-4-tablet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="product-table-4-tablet" sketch:type="MSLayerGroup" transform="translate(0.000000, -1.000000)">
+            <path d="M0,69.1156295 L0,1 L95.5,1 L95.5,69.1136292 L47.2661333,83 L0,69.1156295 Z M95.5,69.1156295 L95.5,1 L191,1 L191,69.1136292 L142.766133,83 L95.5,69.1156295 Z M191,69.1156295 L191,1 L286.5,1 L286.5,69.1136292 L238.266133,83 L191,69.1156295 Z M286.5,69.1156295 L286.5,1 L382,1 L382,69.1136292 L333.766133,83 L286.5,69.1156295 Z" id="Fill-6" fill="#2350A0" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle" fill="#FFFFFF" sketch:type="MSShapeGroup" x="95" y="0.998779297" width="1" height="69.0121231"></rect>
+            <rect id="Rectangle-4" fill="#FFFFFF" sketch:type="MSShapeGroup" x="190" y="0.998779297" width="1" height="69.0121231"></rect>
+            <rect id="Rectangle-5" fill="#FFFFFF" sketch:type="MSShapeGroup" x="286" y="0.998779297" width="1" height="69.0121231"></rect>
+        </g>
+    </g>
+</svg>

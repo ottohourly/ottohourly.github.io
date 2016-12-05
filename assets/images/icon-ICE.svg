@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>ICE</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="ICE" sketch:type="MSLayerGroup" transform="translate(-8.000000, -8.000000)">
+            <rect id="Rectangle-28" fill-opacity="0" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="58" height="58"></rect>
+            <rect id="Rectangle-1" fill="#40A4F4" sketch:type="MSShapeGroup" x="8" y="8" width="42" height="42" rx="6"></rect>
+            <path d="M22,37.4817656 L22,19.4928061 C22,18.8129667 21.9111833,18.8648842 22.4965972,19.1957703 L38.5351738,28.2610528 C38.7654224,28.3911932 38.9086164,28.5139019 38.9738358,28.6049904 C38.9756827,28.6075698 38.9593276,28.5596509 38.9593844,28.4866696 C38.9594409,28.4140071 38.9756459,28.3667269 38.973423,28.3698268 C38.9079705,28.4611028 38.7648136,28.5837226 38.5351738,28.7135189 L22.4965972,37.7788014 C21.9062401,38.1124815 22,38.1672672 22,37.4817656 Z M40.5034028,32.1957703 C43.7766001,30.3457023 43.7794904,26.630503 40.5034028,24.7788014 L24.4648262,15.7135189 C21.2113565,13.8746013 18,15.751791 18,19.4928061 L18,37.4817656 C18,41.2288187 21.2067414,43.1025789 24.4648262,41.2610528 L40.5034028,32.1957703 Z" id="Triangle-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

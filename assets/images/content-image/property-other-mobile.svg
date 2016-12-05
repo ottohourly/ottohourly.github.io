@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="86px" height="50px" viewBox="0 0 86 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>other</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="74" height="46"></rect>
+        <rect id="path-3" x="0" y="0" width="75" height="16"></rect>
+        <rect id="path-5" x="0" y="0" width="33" height="26"></rect>
+        <path id="path-7" d="M12,24 L27,24 L27,10.3904386 C27,6.30259323 23.6421356,3 19.5,3 C15.3662928,3 12,6.30881207 12,10.3904386 L12,24 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-9-Copy-3" sketch:type="MSArtboardGroup" transform="translate(-529.000000, -517.000000)">
+            <g id="other-roundel" sketch:type="MSLayerGroup" transform="translate(516.000000, 471.000000)">
+                <g id="other" transform="translate(13.000000, 47.000000)">
+                    <g id="Group" transform="translate(1.000000, 0.000000)">
+                        <mask id="mask-2" sketch:name="Mask" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" stroke="#3FA158" stroke-width="2" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" stroke="#3FA158" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                            <g transform="translate(0.000000, 6.000000)">
+                                <circle id="Oval-37" cx="34.5" cy="34.5" r="34.5"></circle>
+                                <ellipse id="Oval-37-Copy-2" cx="35.5" cy="34.5" rx="25.5" ry="34.5"></ellipse>
+                                <ellipse id="Oval-37-Copy-3" cx="36" cy="34.5" rx="13" ry="34.5"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M60.875,18 L10.875,18" id="Line-Copy-23" stroke="#3FA158" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <g id="Oval-37-+-Oval-37-Copy-6-+-Line" transform="translate(0.000000, 19.000000)">
+                        <mask id="mask-4" sketch:name="Mask" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                        <g mask="url(#mask-4)" stroke="#3FA158" stroke-width="2" sketch:type="MSShapeGroup">
+                            <g transform="translate(2.000000, -14.000000)">
+                                <circle id="Oval-37" fill="#FFFFFF" fill-rule="evenodd" cx="34.5" cy="35.5" r="34.5"></circle>
+                                <ellipse id="Oval-37-Copy-6" fill="#FFFFFF" fill-rule="evenodd" cx="35" cy="35.5" rx="20" ry="34.5"></ellipse>
+                                <path d="M34,0.5 L34,69.5072479" id="Line" stroke-linecap="square" fill="none"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M71.5,35 L3.5,35" id="Line-Copy-24" stroke="#3FA158" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <g id="Path-+-Shape-+-Shape" transform="translate(53.000000, 21.000000)">
+                        <mask id="mask-6" sketch:name="Mask" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-5"></use>
+                        <g mask="url(#mask-6)">
+                            <g transform="translate(2.000000, 3.000000)">
+                                <rect id="Rectangle-4029" stroke="#3FA158" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="23"></rect>
+                                <path d="M10,10.4990044 L10,10.4990044 C10,5.25594523 14.2597478,1 19.5,1 C24.7490205,1 29,5.24801102 29,10.4990044 L29,25 L29,26 L28,26 L11,26 L10,26 L10,25 L10,10.4990044 Z" id="Shape" stroke="none" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                                <g id="Path" stroke="none">
+                                    <use fill="#306D22" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-7"></use>
+                                    <use fill="none" xlink:href="#path-7"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M84,46 L48,47" id="Line-Copy-13" stroke="#3FA158" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <path d="M55.5,39 L63.5,39" id="Line" stroke="#3FA158" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <path d="M56.5,29 L64.5,29" id="Line-Copy-25" stroke="#3FA158" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

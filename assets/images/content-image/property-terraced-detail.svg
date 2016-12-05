@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="365px" height="177px" viewBox="0 0 365 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>terraced-detail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.562915567" y="0.926559502" width="348" height="145"></rect>
+        <path id="path-3" d="M4.02461969,0.404948745 L360.732719,0.404948745 L364.732719,53.8581831 L0.0246196881,53.8581831 L4.02461969,0.404948745 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="terraced-detail" sketch:type="MSLayerGroup" transform="translate(-0.120602, 0.609928)">
+            <g id="r" transform="translate(0.145238, 7.128349)">
+                <g id="Group" transform="translate(0.000000, 0.138918)">
+                    <g id="Bricks-Copy" transform="translate(7.669795, 22.306173)">
+                        <mask id="mask-2" sketch:name="Mask" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" stroke="#AA725B" fill="#DB9F87" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <g id="Bricks" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                            <g transform="translate(-4.809524, 40.837398)">
+                                <rect id="Rectangle-4-Copy-16" fill="#B37157" x="180.089729" y="42.1907871" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-17" fill="#89230C" x="112.243712" y="10.6429218" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-20" fill="#89230C" x="224.347696" y="0.974424841" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-21" fill="#AA725B" x="42.8000768" y="80.9649752" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-13" fill="#FABB9A" x="104.480159" y="80.9649752" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-14" fill="#B37157" x="46.4706811" y="5.80867332" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-18" fill="#B37157" x="1.44687154" y="47.0250356" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-19" fill="#FABB9A" x="224.347696" y="79.5096906" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-15" fill="#B37157" x="95.3103329" y="69.8411936" width="18.3396519" height="9.66849696"></rect>
+                            </g>
+                        </g>
+                        <g id="Bricks-Copy-5" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                            <g transform="translate(-4.809524, 40.837398)">
+                                <rect id="Rectangle-4-Copy-16" fill="#B37157" x="180.089729" y="42.1907871" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-17" fill="#89230C" x="112.243712" y="10.6429218" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-20" fill="#89230C" x="224.347696" y="0.974424841" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-21" fill="#AA725B" x="42.8000768" y="80.9649752" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-13" fill="#FABB9A" x="104.480159" y="80.9649752" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-14" fill="#B37157" x="46.4706811" y="5.80867332" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-18" fill="#B37157" x="1.44687154" y="47.0250356" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-19" fill="#FABB9A" x="224.347696" y="79.5096906" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-15" fill="#B37157" x="95.3103329" y="69.8411936" width="18.3396519" height="9.66849696"></rect>
+                            </g>
+                        </g>
+                        <g id="Bricks-Copy-9" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                            <g transform="translate(247.062916, 15.243633)">
+                                <rect id="Rectangle-4-Copy-17" fill="#89230C" x="70.2437123" y="10.6429218" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-21" fill="#AA725B" x="0.800076797" y="80.9649752" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-13" fill="#FABB9A" x="62.4801589" y="80.9649752" width="18.3396519" height="9.66849696"></rect>
+                                <rect id="Rectangle-4-Copy-14" fill="#B37157" x="4.47068106" y="5.80867332" width="18.3396519" height="9.66849696"></rect>
+                                <path d="M48.7898472,102.022893 L48.7898472,111.69139 L30.4501953,111.69139 L30.4501953,102.022893 L48.7898472,102.022893 Z" id="Rectangle-4-Copy-18" fill="#89240D"></path>
+                                <rect id="Rectangle-4-Copy-15" fill="#B37157" x="53.3103329" y="69.8411936" width="18.3396519" height="9.66849696"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Left-House-Windows" transform="translate(24.000000, 59.000000)" sketch:type="MSShapeGroup">
+                        <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy" transform="translate(53.193734, 0.122517)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                                <rect id="Rectangle-209" fill="#FAFAFA" x="2.03429746" y="0" width="28.1895505" height="36.4453871"></rect>
+                                <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="4.06859491" y="2.64522971" width="24.1209555" height="27.3340403"></rect>
+                                <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0" y="31.7427565" width="32.2581454" height="4.70263059"></rect>
+                            </g>
+                            <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="2.93255867" y="9.29729262" width="26.0264582" height="2.60324193"></rect>
+                        </g>
+                        <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy" transform="translate(0.774248, 0.122517)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                                <rect id="Rectangle-209" fill="#FAFAFA" x="2.03429746" y="0" width="28.1895505" height="36.4453871"></rect>
+                                <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="4.06859491" y="2.64522971" width="24.1209555" height="27.3340403"></rect>
+                                <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0" y="31.7427565" width="32.2581454" height="4.70263059"></rect>
+                            </g>
+                            <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="2.93255867" y="9.29729262" width="26.0264582" height="2.60324193"></rect>
+                        </g>
+                        <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy" transform="translate(53.193734, 60.864829)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                                <rect id="Rectangle-209" fill="#FAFAFA" x="2.03429746" y="0" width="28.1895505" height="36.4453871"></rect>
+                                <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="4.06859491" y="2.64522971" width="24.1209555" height="27.3340403"></rect>
+                                <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0" y="31.7427565" width="32.2581454" height="4.70263059"></rect>
+                            </g>
+                            <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="2.93255867" y="9.29729262" width="26.0264582" height="2.60324193"></rect>
+                        </g>
+                    </g>
+                    <g id="Left-House-Windows-Copy" transform="translate(139.000000, 59.000000)" sketch:type="MSShapeGroup">
+                        <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy" transform="translate(53.193734, 0.122517)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                                <rect id="Rectangle-209" fill="#FAFAFA" x="2.03429746" y="0" width="28.1895505" height="36.4453871"></rect>
+                                <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="4.06859491" y="2.64522971" width="24.1209555" height="27.3340403"></rect>
+                                <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0" y="31.7427565" width="32.2581454" height="4.70263059"></rect>
+                            </g>
+                            <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="2.93255867" y="9.29729262" width="26.0264582" height="2.60324193"></rect>
+                        </g>
+                        <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy" transform="translate(0.774248, 0.122517)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                                <rect id="Rectangle-209" fill="#FAFAFA" x="2.03429746" y="0" width="28.1895505" height="36.4453871"></rect>
+                                <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="4.06859491" y="2.64522971" width="24.1209555" height="27.3340403"></rect>
+                                <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0" y="31.7427565" width="32.2581454" height="4.70263059"></rect>
+                            </g>
+                            <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="2.93255867" y="9.29729262" width="26.0264582" height="2.60324193"></rect>
+                        </g>
+                        <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy" transform="translate(53.193734, 60.864829)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                                <rect id="Rectangle-209" fill="#FAFAFA" x="2.03429746" y="0" width="28.1895505" height="36.4453871"></rect>
+                                <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="4.06859491" y="2.64522971" width="24.1209555" height="27.3340403"></rect>
+                                <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0" y="31.7427565" width="32.2581454" height="4.70263059"></rect>
+                            </g>
+                            <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="2.93255867" y="9.29729262" width="26.0264582" height="2.60324193"></rect>
+                        </g>
+                    </g>
+                    <g id="Left-House-Windows-Copy-2" transform="translate(255.000000, 59.000000)" sketch:type="MSShapeGroup">
+                        <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy" transform="translate(53.193734, 0.122517)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                                <rect id="Rectangle-209" fill="#FAFAFA" x="2.03429746" y="0" width="28.1895505" height="36.4453871"></rect>
+                                <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="4.06859491" y="2.64522971" width="24.1209555" height="27.3340403"></rect>
+                                <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0" y="31.7427565" width="32.2581454" height="4.70263059"></rect>
+                            </g>
+                            <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="2.93255867" y="9.29729262" width="26.0264582" height="2.60324193"></rect>
+                        </g>
+                        <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy" transform="translate(0.774248, 0.122517)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                                <rect id="Rectangle-209" fill="#FAFAFA" x="2.03429746" y="0" width="28.1895505" height="36.4453871"></rect>
+                                <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="4.06859491" y="2.64522971" width="24.1209555" height="27.3340403"></rect>
+                                <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0" y="31.7427565" width="32.2581454" height="4.70263059"></rect>
+                            </g>
+                            <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="2.93255867" y="9.29729262" width="26.0264582" height="2.60324193"></rect>
+                        </g>
+                        <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy" transform="translate(53.193734, 60.864829)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                                <rect id="Rectangle-209" fill="#FAFAFA" x="2.03429746" y="0" width="28.1895505" height="36.4453871"></rect>
+                                <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="4.06859491" y="2.64522971" width="24.1209555" height="27.3340403"></rect>
+                                <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0" y="31.7427565" width="32.2581454" height="4.70263059"></rect>
+                            </g>
+                            <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="2.93255867" y="9.29729262" width="26.0264582" height="2.60324193"></rect>
+                        </g>
+                    </g>
+                    <g>
+                        <mask id="mask-4" sketch:name="Mask" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="#3B2721" fill="#4C3630" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                        <g mask="url(#mask-4)" stroke-linecap="square" stroke="#3B2721" sketch:type="MSShapeGroup">
+                            <g transform="translate(5.759524, 5.830294)">
+                                <path d="M352.717328,0.5 L4.54747351e-13,0.5" id="Line-Copy-16"></path>
+                                <path d="M352.717328,5.5 L4.54747351e-13,5.5" id="Line-Copy-26"></path>
+                                <path d="M352.717328,11.5 L4.54747351e-13,11.5" id="Line-Copy-27"></path>
+                                <path d="M352.717328,17.5 L4.54747351e-13,17.5" id="Line-Copy-28"></path>
+                                <path d="M352.717328,23.5 L4.54747351e-13,23.5" id="Line-Copy-29"></path>
+                                <path d="M352.717328,29.5 L4.54747351e-13,29.5" id="Line-Copy-30"></path>
+                                <path d="M352.717328,34.5 L4.54747351e-13,34.5" id="Line-Copy-31"></path>
+                                <path d="M352.717328,40.5 L4.54747351e-13,40.5" id="Line-Copy-32"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Red-Door" transform="translate(28.000000, 120.000000)" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-218-Copy" stroke="#A41224" fill="#D0011B" x="0.997619048" y="0.797773452" width="26.1428571" height="48.0243902"></rect>
+                        <rect id="Rectangle-4486" fill="#BFE2FF" x="8.25952381" y="8.07419622" width="4.35714286" height="16.0500548"></rect>
+                        <rect id="Rectangle-4486-Copy" fill="#BFE2FF" x="15.5214286" y="8.07419622" width="4.35714286" height="16.0500548"></rect>
+                        <rect id="Rectangle-4488" fill="#F6A623" x="9.71190476" y="28.44818" width="8.71428571" height="2.91056911"></rect>
+                    </g>
+                    <g id="Green-Door" transform="translate(258.000000, 120.000000)" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-218-Copy" stroke="#306D22" fill="#3EAC11" x="0.997619048" y="0.797773452" width="26.1428571" height="48.0243902"></rect>
+                        <rect id="Rectangle-4486" fill="#BFE2FF" x="8.25952381" y="8.07419622" width="4.35714286" height="16.0500548"></rect>
+                        <rect id="Rectangle-4486-Copy" fill="#BFE2FF" x="15.5214286" y="8.07419622" width="4.35714286" height="16.0500548"></rect>
+                        <rect id="Rectangle-4488" fill="#F6A623" x="9.71190476" y="28.44818" width="8.71428571" height="2.91056911"></rect>
+                    </g>
+                    <g id="Blue-Door" transform="translate(143.000000, 120.000000)" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-218-Copy-2" stroke="#316199" fill="#4990E2" x="0.378571429" y="0.797773452" width="26.1428571" height="48.0243902"></rect>
+                        <rect id="Rectangle-4486-Copy-3" fill="#BFE2FF" x="7.64047619" y="8.07419622" width="4.35714286" height="16.0500548"></rect>
+                        <rect id="Rectangle-4486-Copy-2" fill="#BFE2FF" x="14.902381" y="8.07419622" width="4.35714286" height="16.0500548"></rect>
+                        <rect id="Rectangle-4488-Copy" fill="#F6A623" x="9.09285714" y="28.44818" width="8.71428571" height="2.91056911"></rect>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle-4491" stroke="#AA725B" fill="#DB9F87" sketch:type="MSShapeGroup" x="16.0714286" y="0" width="14.5238095" height="21.8292683"></rect>
+            <rect id="Rectangle-4491-Copy" stroke="#AA725B" fill="#DB9F87" sketch:type="MSShapeGroup" x="124.5" y="0" width="14.5238095" height="21.8292683"></rect>
+            <rect id="Rectangle-4491-Copy-2" stroke="#AA725B" fill="#DB9F87" sketch:type="MSShapeGroup" x="240.5" y="0" width="14.5238095" height="21.8292683"></rect>
+        </g>
+    </g>
+</svg>

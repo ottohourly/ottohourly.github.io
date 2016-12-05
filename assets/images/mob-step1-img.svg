@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="112px" height="100px" viewBox="0 0 112 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>mob-step2-img</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.6952013,18.1311746 C14.7999055,14.3690306 17.2105065,11.3192103 21.073882,11.3192103 L84.0368704,11.3192103 C87.9027295,11.3192103 90.3095969,14.3742831 89.4155512,18.1311746 L83.037391,44.9329968 C82.1420953,48.6951409 78.2822144,51.7449612 74.4249706,51.7449612 L30.6857819,51.7449612 C26.8245691,51.7449612 22.9674072,48.6898884 22.0733614,44.9329968 L15.6952013,18.1311746 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="74.0935494" height="40.4257509" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-210.000000, -633.000000)">
+            <g id="Group-14" transform="translate(217.000000, 638.000000)">
+                <g id="Group-11">
+                    <rect id="Rectangle-26" fill="#40A4F4" transform="translate(53.144927, 27.398414) rotate(-29.000000) translate(-53.144927, -27.398414) " x="33.2292502" y="7.31325774" width="39.8313528" height="40.1703116"></rect>
+                    <g id="Group-4" transform="translate(0.000000, 10.722681)">
+                        <use id="Rectangle-25" stroke="#2350A0" mask="url(#mask-2)" stroke-width="12" xlink:href="#path-1"></use>
+                        <polyline id="Path-766" stroke="#2350A0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" points="2.20165292e-17 0 12.8243366 0 28.1312728 60.6386264 72.6939889 60.6386264"></polyline>
+                        <ellipse id="Oval-79-Copy" fill="#2350A0" cx="63.333726" cy="70.3408066" rx="5.61184914" ry="5.65960513"></ellipse>
+                        <ellipse id="Oval-79-Copy-2" fill="#2350A0" cx="37.6795585" cy="70.3408066" rx="5.61184914" ry="5.65960513"></ellipse>
+                        <path d="M37.6795585,14.5532703 L41.8226815,47.7402852" id="Path-767" stroke="#2350A0" stroke-width="4"></path>
+                        <path d="M61.7303406,14.5532703 L65.8734636,47.7402852" id="Path-767-Copy" stroke="#2350A0" stroke-width="4" transform="translate(63.801902, 31.146778) scale(-1, 1) translate(-63.801902, -31.146778) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="207px" height="205px" viewBox="0 0 207 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>flat-detail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0.518040477,0.798245614 L104.349843,0.798246205 L202.248392,0.798245614 L202.248392,137.982456 L0.518040477,137.982456 L0.518040477,0.798245614 Z"></path>
+        <rect id="path-3" x="0.569078947" y="0.352508741" width="109.04386" height="199.147491"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="flat-detail" sketch:type="MSLayerGroup" transform="translate(1.120602, 1.609928)">
+            <g id="Group-Copy-2" transform="translate(0.882347, 0.609928)">
+                <g id="Bricks-Copy-6" transform="translate(0.000000, 62.000000)">
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" stroke="#AA725B" stroke-width="2" fill="#DB9F87" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <image sketch:type="MSBitmapLayer" mask="url(#mask-2)" x="-50.6392052" y="61" width="152.022422" height="65" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOkAAABbCAYAAACWNaKdAAAABGdBTUEAALGPC/xhBQAABMlJREFUeAHt3T1oFEEUwPH37k6NwRSihaIE0cLGysrCwiZ2RiyMEDEKoqTTCIKNoAZEwY8EEREECxH1xCIELFRELCy0kqggiohEULFJDGqM2eeedfbIMNnNDPtfOAKzM29mfi+P2727XFQ4EECgEIEz69oOiMoml8lqsuB8zWUAfRFAwENAbYuKdrtEsMr0rYrLAPoigEDxAhRp8ebMiICTAEXqxEVnBIoXiOKedLivq9dE9nrzmL7rHLjT4x2HAAgUKBBFkYpJu6o6vSo2o6Ha4hnbaUQgYAEudwNODktDoCFAkfJ7gEDgAhRp4AlieQjEcU9Knv4LpJ9Yua8qm3050hfhrh17/+OIbxzGuwn8/jux/+eE9LqMat0gvyhSF7F57qtqrSLa5r8Ma/GPQQRXgRMf5Xc6pvGY/fGEe9LZY9ETgXkS4J50nuCZFoHZCkRxuWsmYyo2OttNZfUz0a9Z52hHIFSBKIq0c7B+NgVsPDgQKJ0Al7ulSzkbjk2AIo0tY6y3dAIUaelSzoZjE4jinjQ21NzWa/rcxNzeZ5thMSryZoZmmhBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEQhFIvziOA4E4BYYO79ot1vhPc36HVqafdV6899ovSn6j+UrP/GyJnLNARe2cqK7wnSaRyuE0RrBFypdj+2aY8QjkLECR5gxMeAR8BShSX0HGI5CzQG24r2eV2ORR93mST9sG7l5wH8cIBBBwEaiJJsvTAYdcBjX6mumL9AdF6gpHfwQcBbjcdQSjOwJFC1CkRYszHwKOAhSpIxjdEShagA8zFC3OfHMmkCSySyRZ5BswfaZ66xsjz/EUaZ66xM5VYPtg/WmuEwQSnMvdQBLBMhDIEqBIs2RoRyAQAYo0kESwDASyBGor17e++TzyZVVWh6z2yh/7k3WOdgQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEYhPgf8EUlLGhvq7+iulm3+kSscfbB+r9vnEYH48A38xQUK7UZIOobPGdLv3bwi++MRgflwB/TxpXvlhtCQUo0hImnS3HJUCRxpUvVltCAYq0hElny3EJUKRx5YvVllCAIi1h0tlyXAIUaVz5YrUlFOB90oKSnn5qZNxEvntPZzruHYMA8yLwrX55ScviWovL5G2/lo7ziSMXMfoi4CEw+fDqTRXtdgmhWusI8pm0fmhnu1QXnHTZTFbfv9N2rHvw1tes8yG1Tz64skOk2um9JpXRRR0Hj3vHIUAQAkEW6XRSXVat6r65EDKT02mcKIpUtLoxvbTx3reZvUr3TJHOxS9QADF44SiAJLAEBJoJUKTNdDiHQAACFGkASWAJCDQToEib6XAOgQAEKNIAksASEGgmQJE20+EcAgEIBPkWTAAuLAGBORdQsUdp0DGXwLXq1ChF6iJGXwQ8BBZ29F5PhzceTkeQRfr20u2Xa/dsXeK0k4zOPTce/Mw4FVzzyAc7tXrN+BnfhU2NVRPfGIwPR+AfoA2byt9mqJsAAAAASUVORK5CYII="></image>
+                    <image id="Bricks-Copy-10" sketch:type="MSBitmapLayer" mask="url(#mask-2)" x="0.360794784" y="-1" width="152.022422" height="65" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOkAAABbCAYAAACWNaKdAAAABGdBTUEAALGPC/xhBQAABMlJREFUeAHt3T1oFEEUwPH37k6NwRSihaIE0cLGysrCwiZ2RiyMEDEKoqTTCIKNoAZEwY8EEREECxH1xCIELFRELCy0kqggiohEULFJDGqM2eeedfbIMNnNDPtfOAKzM29mfi+P2727XFQ4EECgEIEz69oOiMoml8lqsuB8zWUAfRFAwENAbYuKdrtEsMr0rYrLAPoigEDxAhRp8ebMiICTAEXqxEVnBIoXiOKedLivq9dE9nrzmL7rHLjT4x2HAAgUKBBFkYpJu6o6vSo2o6Ha4hnbaUQgYAEudwNODktDoCFAkfJ7gEDgAhRp4AlieQjEcU9Knv4LpJ9Yua8qm3050hfhrh17/+OIbxzGuwn8/jux/+eE9LqMat0gvyhSF7F57qtqrSLa5r8Ma/GPQQRXgRMf5Xc6pvGY/fGEe9LZY9ETgXkS4J50nuCZFoHZCkRxuWsmYyo2OttNZfUz0a9Z52hHIFSBKIq0c7B+NgVsPDgQKJ0Al7ulSzkbjk2AIo0tY6y3dAIUaelSzoZjE4jinjQ21NzWa/rcxNzeZ5thMSryZoZmmhBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEQhFIvziOA4E4BYYO79ot1vhPc36HVqafdV6899ovSn6j+UrP/GyJnLNARe2cqK7wnSaRyuE0RrBFypdj+2aY8QjkLECR5gxMeAR8BShSX0HGI5CzQG24r2eV2ORR93mST9sG7l5wH8cIBBBwEaiJJsvTAYdcBjX6mumL9AdF6gpHfwQcBbjcdQSjOwJFC1CkRYszHwKOAhSpIxjdEShagA8zFC3OfHMmkCSySyRZ5BswfaZ66xsjz/EUaZ66xM5VYPtg/WmuEwQSnMvdQBLBMhDIEqBIs2RoRyAQAYo0kESwDASyBGor17e++TzyZVVWh6z2yh/7k3WOdgQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEYhPgf8EUlLGhvq7+iulm3+kSscfbB+r9vnEYH48A38xQUK7UZIOobPGdLv3bwi++MRgflwB/TxpXvlhtCQUo0hImnS3HJUCRxpUvVltCAYq0hElny3EJUKRx5YvVllCAIi1h0tlyXAIUaVz5YrUlFOB90oKSnn5qZNxEvntPZzruHYMA8yLwrX55ScviWovL5G2/lo7ziSMXMfoi4CEw+fDqTRXtdgmhWusI8pm0fmhnu1QXnHTZTFbfv9N2rHvw1tes8yG1Tz64skOk2um9JpXRRR0Hj3vHIUAQAkEW6XRSXVat6r65EDKT02mcKIpUtLoxvbTx3reZvUr3TJHOxS9QADF44SiAJLAEBJoJUKTNdDiHQAACFGkASWAJCDQToEib6XAOgQAEKNIAksASEGgmQJE20+EcAgEIBPkWTAAuLAGBORdQsUdp0DGXwLXq1ChF6iJGXwQ8BBZ29F5PhzceTkeQRfr20u2Xa/dsXeK0k4zOPTce/Mw4FVzzyAc7tXrN+BnfhU2NVRPfGIwPR+AfoA2byt9mqJsAAAAASUVORK5CYII="></image>
+                    <g id="Group" mask="url(#mask-2)">
+                        <g transform="translate(15.372006, 12.390072)">
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(0.000000, 0.422582)">
+                                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy" sketch:type="MSShapeGroup">
+                                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                                </g>
+                                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" sketch:type="MSShapeGroup" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+                            </g>
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(39.879398, 0.422582)">
+                                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy" sketch:type="MSShapeGroup">
+                                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                                </g>
+                                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" sketch:type="MSShapeGroup" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+                            </g>
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(0.000000, 41.390072)">
+                                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy" sketch:type="MSShapeGroup">
+                                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                                </g>
+                                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" sketch:type="MSShapeGroup" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+                            </g>
+                            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(39.879398, 41.390072)">
+                                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy" sketch:type="MSShapeGroup">
+                                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                                </g>
+                                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" sketch:type="MSShapeGroup" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Bricks-Copy-7" transform="translate(93.000000, 0.000000)">
+                    <mask id="mask-4" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" stroke="#AA725B" stroke-width="2" fill="#DB9F87" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                    <image sketch:type="MSBitmapLayer" mask="url(#mask-4)" x="-60.125" y="122.519652" width="167.658473" height="65.4803478" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOkAAABbCAYAAACWNaKdAAAABGdBTUEAALGPC/xhBQAABMlJREFUeAHt3T1oFEEUwPH37k6NwRSihaIE0cLGysrCwiZ2RiyMEDEKoqTTCIKNoAZEwY8EEREECxH1xCIELFRELCy0kqggiohEULFJDGqM2eeedfbIMNnNDPtfOAKzM29mfi+P2727XFQ4EECgEIEz69oOiMoml8lqsuB8zWUAfRFAwENAbYuKdrtEsMr0rYrLAPoigEDxAhRp8ebMiICTAEXqxEVnBIoXiOKedLivq9dE9nrzmL7rHLjT4x2HAAgUKBBFkYpJu6o6vSo2o6Ha4hnbaUQgYAEudwNODktDoCFAkfJ7gEDgAhRp4AlieQjEcU9Knv4LpJ9Yua8qm3050hfhrh17/+OIbxzGuwn8/jux/+eE9LqMat0gvyhSF7F57qtqrSLa5r8Ma/GPQQRXgRMf5Xc6pvGY/fGEe9LZY9ETgXkS4J50nuCZFoHZCkRxuWsmYyo2OttNZfUz0a9Z52hHIFSBKIq0c7B+NgVsPDgQKJ0Al7ulSzkbjk2AIo0tY6y3dAIUaelSzoZjE4jinjQ21NzWa/rcxNzeZ5thMSryZoZmmhBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEQhFIvziOA4E4BYYO79ot1vhPc36HVqafdV6899ovSn6j+UrP/GyJnLNARe2cqK7wnSaRyuE0RrBFypdj+2aY8QjkLECR5gxMeAR8BShSX0HGI5CzQG24r2eV2ORR93mST9sG7l5wH8cIBBBwEaiJJsvTAYdcBjX6mumL9AdF6gpHfwQcBbjcdQSjOwJFC1CkRYszHwKOAhSpIxjdEShagA8zFC3OfHMmkCSySyRZ5BswfaZ66xsjz/EUaZ66xM5VYPtg/WmuEwQSnMvdQBLBMhDIEqBIs2RoRyAQAYo0kESwDASyBGor17e++TzyZVVWh6z2yh/7k3WOdgQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEYhPgf8EUlLGhvq7+iulm3+kSscfbB+r9vnEYH48A38xQUK7UZIOobPGdLv3bwi++MRgflwB/TxpXvlhtCQUo0hImnS3HJUCRxpUvVltCAYq0hElny3EJUKRx5YvVllCAIi1h0tlyXAIUaVz5YrUlFOB90oKSnn5qZNxEvntPZzruHYMA8yLwrX55ScviWovL5G2/lo7ziSMXMfoi4CEw+fDqTRXtdgmhWusI8pm0fmhnu1QXnHTZTFbfv9N2rHvw1tes8yG1Tz64skOk2um9JpXRRR0Hj3vHIUAQAkEW6XRSXVat6r65EDKT02mcKIpUtLoxvbTx3reZvUr3TJHOxS9QADF44SiAJLAEBJoJUKTNdDiHQAACFGkASWAJCDQToEib6XAOgQAEKNIAksASEGgmQJE20+EcAgEIBPkWTAAuLAGBORdQsUdp0DGXwLXq1ChF6iJGXwQ8BBZ29F5PhzceTkeQRfr20u2Xa/dsXeK0k4zOPTce/Mw4FVzzyAc7tXrN+BnfhU2NVRPfGIwPR+AfoA2byt9mqJsAAAAASUVORK5CYII="></image>
+                    <image id="Bricks-Copy-8" sketch:type="MSBitmapLayer" mask="url(#mask-4)" x="8.44014088" y="26.5632261" width="167.658473" height="65.4803478" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOkAAABbCAYAAACWNaKdAAAABGdBTUEAALGPC/xhBQAABMlJREFUeAHt3T1oFEEUwPH37k6NwRSihaIE0cLGysrCwiZ2RiyMEDEKoqTTCIKNoAZEwY8EEREECxH1xCIELFRELCy0kqggiohEULFJDGqM2eeedfbIMNnNDPtfOAKzM29mfi+P2727XFQ4EECgEIEz69oOiMoml8lqsuB8zWUAfRFAwENAbYuKdrtEsMr0rYrLAPoigEDxAhRp8ebMiICTAEXqxEVnBIoXiOKedLivq9dE9nrzmL7rHLjT4x2HAAgUKBBFkYpJu6o6vSo2o6Ha4hnbaUQgYAEudwNODktDoCFAkfJ7gEDgAhRp4AlieQjEcU9Knv4LpJ9Yua8qm3050hfhrh17/+OIbxzGuwn8/jux/+eE9LqMat0gvyhSF7F57qtqrSLa5r8Ma/GPQQRXgRMf5Xc6pvGY/fGEe9LZY9ETgXkS4J50nuCZFoHZCkRxuWsmYyo2OttNZfUz0a9Z52hHIFSBKIq0c7B+NgVsPDgQKJ0Al7ulSzkbjk2AIo0tY6y3dAIUaelSzoZjE4jinjQ21NzWa/rcxNzeZ5thMSryZoZmmhBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEQhFIvziOA4E4BYYO79ot1vhPc36HVqafdV6899ovSn6j+UrP/GyJnLNARe2cqK7wnSaRyuE0RrBFypdj+2aY8QjkLECR5gxMeAR8BShSX0HGI5CzQG24r2eV2ORR93mST9sG7l5wH8cIBBBwEaiJJsvTAYdcBjX6mumL9AdF6gpHfwQcBbjcdQSjOwJFC1CkRYszHwKOAhSpIxjdEShagA8zFC3OfHMmkCSySyRZ5BswfaZ66xsjz/EUaZ66xM5VYPtg/WmuEwQSnMvdQBLBMhDIEqBIs2RoRyAQAYo0kESwDASyBGor17e++TzyZVVWh6z2yh/7k3WOdgQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEYhPgf8EUlLGhvq7+iulm3+kSscfbB+r9vnEYH48A38xQUK7UZIOobPGdLv3bwi++MRgflwB/TxpXvlhtCQUo0hImnS3HJUCRxpUvVltCAYq0hElny3EJUKRx5YvVllCAIi1h0tlyXAIUaVz5YrUlFOB90oKSnn5qZNxEvntPZzruHYMA8yLwrX55ScviWovL5G2/lo7ziSMXMfoi4CEw+fDqTRXtdgmhWusI8pm0fmhnu1QXnHTZTFbfv9N2rHvw1tes8yG1Tz64skOk2um9JpXRRR0Hj3vHIUAQAkEW6XRSXVat6r65EDKT02mcKIpUtLoxvbTx3reZvUr3TJHOxS9QADF44SiAJLAEBJoJUKTNdDiHQAACFGkASWAJCDQToEib6XAOgQAEKNIAksASEGgmQJE20+EcAgEIBPkWTAAuLAGBORdQsUdp0DGXwLXq1ChF6iJGXwQ8BBZ29F5PhzceTkeQRfr20u2Xa/dsXeK0k4zOPTce/Mw4FVzzyAc7tXrN+BnfhU2NVRPfGIwPR+AfoA2byt9mqJsAAAAASUVORK5CYII="></image>
+                </g>
+            </g>
+            <rect id="Rectangle-218-Copy" stroke="#FFFFFF" stroke-width="2" fill="#D7EAF9" sketch:type="MSShapeGroup" x="139.879398" y="161.390072" width="22" height="38"></rect>
+            <rect id="Rectangle-219-Copy-10" fill="#FAFAFA" sketch:type="MSShapeGroup" x="138.879398" y="177.390072" width="22" height="8"></rect>
+            <rect id="Rectangle-4488-Copy-2" fill="#F6A623" sketch:type="MSShapeGroup" x="146.879398" y="180.390072" width="8" height="3"></rect>
+            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(171.000000, 16.609928)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                </g>
+                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+            </g>
+            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(104.000000, 16.609928)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                </g>
+                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+            </g>
+            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(136.879398, 16.609928)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                </g>
+                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+            </g>
+            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(171.000000, 63.609928)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                </g>
+                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+            </g>
+            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(104.000000, 63.609928)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                </g>
+                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+            </g>
+            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(136.879398, 63.609928)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                </g>
+                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+            </g>
+            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(171.000000, 111.609928)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                </g>
+                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+            </g>
+            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(104.000000, 111.609928)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                </g>
+                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+            </g>
+            <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy-+-Rectangle-219-Copy-4-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" transform="translate(136.879398, 111.609928)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-209-+-Rectangle-209-Copy-2-+-Rectangle-209-Copy-Copy-Copy-Copy">
+                    <rect id="Rectangle-209" fill="#FAFAFA" x="1.24490396" y="0" width="19.946142" height="25.5193287"></rect>
+                    <rect id="Rectangle-209-Copy-2" fill-opacity="0.302960824" fill="#88C6F8" x="3.00485766" y="1.7599537" width="16.4262346" height="18.7728395"></rect>
+                    <rect id="Rectangle-209-Copy" fill="#FAFAFA" x="0.0716014935" y="22.2927469" width="22.2927469" height="3.5199074"></rect>
+                </g>
+                <rect id="Rectangle-219-Copy-4" fill="#FAFAFA" x="1.8315552" y="6.45316357" width="18.2239179" height="1.7599537"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

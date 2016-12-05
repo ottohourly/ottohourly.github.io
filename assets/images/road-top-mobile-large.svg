@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="131px" height="382px" viewBox="0 0 131 382" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>road-top-mobile-large</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="road-top-mobile-large" sketch:type="MSLayerGroup" transform="translate(-1.000000, -1.000000)">
+            <path d="M1,4 C41,4 128.112,59.344 128.112,188.882 C128.112,318.419 45,380 1,380" stroke="#56A0D7" stroke-width="6" stroke-dasharray="7.85" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-10" sketch:type="MSShapeGroup" x="0" y="0" width="132" height="389"></rect>
+        </g>
+    </g>
+</svg>

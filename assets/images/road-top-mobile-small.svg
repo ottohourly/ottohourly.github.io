@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="118px" height="345px" viewBox="0 0 118 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>road-top-mobile-small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0.888,4 C62.125,4 112.866,68.177 112.866,169.381 C112.866,270.586 64.65,337.855 0.888,337.855"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="road-top-mobile-small" sketch:type="MSLayerGroup">
+            <g id="Shape">
+                <use stroke="#56A0D7" stroke-width="6" stroke-dasharray="7.8" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <use stroke="none" xlink:href="#path-1"></use>
+                <use stroke="none" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

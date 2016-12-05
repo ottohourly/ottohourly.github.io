@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="396px" height="85px" viewBox="0 0 396 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>claims-home</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="claims-home" sketch:type="MSLayerGroup">
+            <g sketch:type="MSShapeGroup">
+                <path d="M198,2.45996094 L395.533466,2.45996094 L395.533466,70.2445642 L295.237649,84.4599609 L197.992405,70.2509249 L97.7414656,84.4599609 L0.466534351,70.2465871 L0.466534351,2.45996094 L198,2.45996094 Z" id="Fill-white" fill="#FFFFFF"></path>
+                <path d="M198,0.463 L395.533466,0.463 L395.533466,68.2476032 L295.237649,82.463 L197.992405,68.253964 L97.7414656,82.463 L0.466534351,68.2496262 L0.466534351,0.463 L198,0.463 Z" id="Fill-blue" fill="#2350A0"></path>
+            </g>
+        </g>
+    </g>
+</svg>

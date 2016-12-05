@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>Named Driver</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Named-Driver" sketch:type="MSLayerGroup">
+            <g id="Path-+-Oval-1-+-Imported-Layers" sketch:type="MSShapeGroup">
+                <path d="M69.226,4.64 L75.161,0.937 L79.493,6.623 L86.064,3.854 L89.623,10.354 L95.879,9.119 L97.695,15.52 L105.415,14.936 L106.38,22.738 L113.063,23.348 L112.556,29.97 L119.303,32.121 L117.954,39.103 L123.984,42.403 L121.521,48.38 L127.174,52.838 L123.263,59.18 L128,64.339 L123.429,69.154 L127.174,75.001 L121.424,79.607 L124.145,86.064 L118.125,89.361 L119.475,95.88 L112.505,98.021 L113.063,105.416 L106.277,106.254 L105.415,112.904 L98.02,112.586 L95.879,119.303 L89.467,118.064 L86.064,124.146 L79.738,121.371 L75.161,127.173 L69.066,123.415 L64.184,128 L59.107,123.261 L52.998,127.173 L48.378,121.408 L42.402,123.985 L39.074,118.035 L32.119,119.476 L30.008,112.601 L22.718,112.904 L21.656,106.267 L15.096,105.416 L15.407,98.13 L8.498,95.88 L9.91,89.453 L3.854,86.064 L6.661,79.666 L0.825,75.001 L4.676,69.164 L0,64.185 L4.817,59.022 L0.968,52.838 L6.652,48.521 L4.015,42.403 L10.524,38.762 L9.246,32.121 L15.413,30.388 L15.096,22.718 L22.942,21.463 L23.475,14.936 L29.862,15.431 L32.119,8.498 L39.11,10.031 L42.402,4.015 L48.452,6.508 L52.998,0.818 L59.083,4.826 L64.339,0 L69.226,4.64 Z" id="Path" fill="#40A4F4"></path>
+                <circle id="Oval-1" fill="url(#linearGradient-1)" cx="64" cy="64" r="54"></circle>
+            </g>
+            <path d="M64.0151803,29 L74.454146,50.135996 L97.7659807,53.5363765 L80.8956406,70.0019094 L84.8779314,93.2378428 L64.0151803,82.2675676 L43.1423089,93.2378428 L47.1144796,70.0019094 L30.2340193,53.5363765 L53.5812746,50.135996 L64.0151803,29" id="Fill-6-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
