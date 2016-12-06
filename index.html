@@ -76,14 +76,43 @@
   <!-- Set up button tracking of google events -->
   <script>
     $(document).ready(function(){
-      $('.container').on("click", ".appInstallButton", function() {   // jQuery 1.7 & up
-          alert($(this).data('ga-event-type'));
+      $(document).on("click", ".appInstallButton", function() {   // jQuery 1.7 & up
+        var eventDictionary = {
+          eventCategory : $(this).data('ga-event-category'), 
+          eventAction   : 'click',
+          eventLabel    : $(this).data('ga-event-label'),
+        };
+        ga('send', 'event', eventDictionary);
+        // alert(JSON.stringify(eventDictionary));
       });
-      $('#MyButton').click(function(){
-         alert($(this).data('ga-event-type'));
+      $("#scrollLend").on("click", function() {
+        var eventDictionary = {
+          eventCategory : $(this).data('ga-event-category'), 
+          eventAction   : 'click',
+          eventLabel    : $(this).data('ga-event-label'),
+        };
+        ga('send', 'event', eventDictionary);
+        // alert(JSON.stringify(eventDictionary));
+        $("html, body").animate({
+            scrollTop: $("#temporaryLend").offset().top
+        }, 1e3);
+      });
+      $("#scrollBorrow").on("click", function() {
+        var eventDictionary = {
+          eventCategory : $(this).data('ga-event-category'), 
+          eventAction   : 'click',
+          eventLabel    : $(this).data('ga-event-label'),
+        };
+        ga('send', 'event', eventDictionary);
+        // alert(JSON.stringify(eventDictionary));
+        $("html, body").animate({
+            scrollTop: $("#temporaryBorrow").offset().top
+        }, 1e3)
       });
     });
+
   </script>
+
 
   <body>
     <div id="mainContent" role="main">
@@ -100,8 +129,8 @@
           </div>
 
           <center>
-            <a href="https://itunes.apple.com/us/app/otto-hourly-insurance/id1178415640?ls=1&mt=8" class="appInstallButton appleButton" data-ga-event-type="General" data-ga-event-data="Motor-quote_Car-sharing"></a>
-            <a href="https://car-sharing.admiral.com/" class="appInstallButton googleButton" data-ga-event-type="General" data-ga-event-data="Motor-quote_Car-sharing"></a>
+            <a href="https://itunes.apple.com/us/app/otto-hourly-insurance/id1178415640?ls=1&mt=8" class="appInstallButton appleButton" data-ga-event-category="Link" data-ga-event-label="Apple App Store"></a>
+            <a href="https://itunes.apple.com/us/app/otto-hourly-insurance/id1178415640?ls=1&mt=8" class="appInstallButton googleButton" data-ga-event-category="Link" data-ga-event-label="Google Play Store"></a>
           </center>
 
         </div>
@@ -116,7 +145,7 @@
             </header>
 
             <div class="buttons">
-              <a href="index.html#" id="scrollLend" class="smallContentButton ghostButton">Owners find out more</a>
+              <a href="#" id="scrollLend" class="smallContentButton ghostButton" data-ga-event-category="Link" data-ga-event-label="Owner Learn More">Owners find out more</a>
             </div>
           </article>
 
@@ -126,7 +155,7 @@
             </header>
 
             <div class="buttons">
-              <a href="index.html#" id="scrollBorrow" class="smallContentButton ghostButton">Drivers find out more</a>
+              <a href="#" id="scrollBorrow" class="smallContentButton ghostButton" data-ga-event-category="Link" data-ga-event-label="Borrower Learn More">Drivers find out more</a>
             </div>
           </article>
         </div>
@@ -361,14 +390,12 @@
     </div>
   </div></div>
 
-    <center><div class="buttons smallerButtons group">
-      <a href="https://car-sharing.admiral.com/" class="appInstallButton appleButton" data-ga-event-type="General" data-ga-event-data="Motor-quote_Car-sharing">
-        <div class="buttonCopy"></div>
-      </a>
-      <a href="https://car-sharing.admiral.com/" class="appInstallButton googleButton" data-ga-event-type="General" data-ga-event-data="Motor-quote_Car-sharing">
-        <div class="buttonCopy"></div>
-      </a>
-    </div></center>
+    <center>
+      <div class="buttons smallerButtons group">
+            <a href="https://itunes.apple.com/us/app/otto-hourly-insurance/id1178415640?ls=1&mt=8" class="appInstallButton appleButton" data-ga-event-category="Link" data-ga-event-label="Apple App Store"></a>
+            <a href="https://itunes.apple.com/us/app/otto-hourly-insurance/id1178415640?ls=1&mt=8" class="appInstallButton googleButton" data-ga-event-category="Link" data-ga-event-label="Google Play Store"></a>
+      </div>
+    </center>
     <br /><br /><br />
 
 
@@ -400,7 +427,7 @@
 		<script src="http://use.typekit.net/mcu8nnf.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
 
-	        <script src='./assets/javascript/javascript.min69.js'  ></script>    
+    
   
   <!-- Crazy Egg -->
 <script type="text/javascript">
