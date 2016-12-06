@@ -99,7 +99,7 @@
         };
         ga('send', 'event', eventDictionary);
 
-        fbq('track', 'click', eventDictionary);
+        fbq('trackCustom', 'click', eventDictionary);
         // alert(JSON.stringify(eventDictionary));
       });
       $("#scrollLend").on("click", function() {
@@ -110,7 +110,7 @@
         };
         ga('send', 'event', eventDictionary);
 
-        fbq('track', 'click', eventDictionary);
+        fbq('trackCustom', 'click', eventDictionary);
         // alert(JSON.stringify(eventDictionary));
         $("html, body").animate({
             scrollTop: $("#temporaryLend").offset().top
@@ -124,7 +124,7 @@
         };
         ga('send', 'event', eventDictionary);
 
-        fbq('track', 'click', eventDictionary);
+        fbq('trackCustom', 'click', eventDictionary);
         // alert(JSON.stringify(eventDictionary));
         $("html, body").animate({
             scrollTop: $("#temporaryBorrow").offset().top
