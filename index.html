@@ -108,6 +108,17 @@
         fbq('trackCustom', 'click', eventDictionary);
         // alert(JSON.stringify(eventDictionary));
       });
+      $(document).on("click", ".greenButton", function() {   // jQuery 1.7 & up
+        var eventDictionary = {
+          eventCategory : $(this).data('ga-event-category'), 
+          eventAction   : 'click',
+          eventLabel    : $(this).data('ga-event-label'),
+        };
+        ga('send', 'event', eventDictionary);
+
+        fbq('trackCustom', 'click', eventDictionary);
+        // alert(JSON.stringify(eventDictionary));
+      });
       $("#scrollLend").on("click", function() {
         var eventDictionary = {
           eventCategory : $(this).data('ga-event-category'), 
@@ -146,8 +157,14 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXDDVBJ"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    
+
     <div id="mainContent" role="main">
+      <div class="fadeInCtaScroll">
+        <a href="https://car-sharing.admiral.com/" class="contentButton greenButton" data-ga-event-category="Link" data-ga-event-label="Get Quote Fade Banner">
+          <div class="buttonCopy"><span>Get a quote</span></div>
+        </a>
+      </div>
+
       <div id="blackout-xx"></div>
       <!-- Hero Banner -->
       <div class="heroBannerV2 temporary">
