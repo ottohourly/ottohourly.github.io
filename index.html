@@ -94,6 +94,23 @@
     </script>
   </head>
 
+
+  <script> 
+    function ctaScrollOffset() {
+        var e = $(".cta-button-offset").offset().top;
+        $(window).scrollTop() > e && ($(".fadeInCtaScroll").css({
+            visibility: "visible",
+            opacity: 1
+        }),
+        $("footer").css({
+            "padding-bottom": "82px"
+        }))
+    };
+    $(document).ready(function() {
+        $(".cta-button-offset").length && $(document).on("scroll", $.proxy(ctaScrollOffset))
+    });
+  </script>
+  
   <!-- Set up button tracking of google events -->
   <script>
     $(document).ready(function(){
@@ -160,7 +177,7 @@
 
     <div id="mainContent" role="main">
       <div class="fadeInCtaScroll">
-        <a href="https://car-sharing.admiral.com/" class="contentButton greenButton" data-ga-event-category="Link" data-ga-event-label="Get Quote Fade Banner">
+        <a href="https://itunes.apple.com/us/app/otto-hourly-insurance/id1178415640?ls=1&mt=8" class="contentButton greenButton" data-ga-event-category="Link" data-ga-event-label="Get Quote Fade Banner">
           <div class="buttonCopy"><span>Get a quote</span></div>
         </a>
       </div>
